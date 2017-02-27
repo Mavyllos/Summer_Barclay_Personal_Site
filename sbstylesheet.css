@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Indie Flower', cursive, sans-serif;
+    src: url('https://fonts.google.com/specimen/Indie+Flower?selection.family=Indie+Flower|Open+Sans|Oswald');
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    color: Black;
+    text-decoration: none;
+    text-align: left;
+    font-family: 'Indie Flower', cursive, sans-serif;
+    background-image: url("seamlesstattoo3.jpg");
+    
+}
+
+h1 {
+    font-size: 64px;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+
+h3 {
+    font-size: 48px;
+    padding-top: 40px;
+    padding-left: 30px;
+}
+
+h4 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 32px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    width: 55%;
+    min-width: 550px;
+}
+
+a {
+    font-size: 32px;
+    color: black;
+    text-decoration: underline;
+}
+
+img {
+    margin-left: 30px;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
